@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  animation: mudaCor 10s infinite;
+}
+
+@keyframes mudaCor {
+  0% { background-color: #ff6b6b;}
+  25% { background-color: #4ecdc4;}
+  50% { background-color: #45aaf2;}
+  75% { background-color: #f7b733;}
+  100% { background-color: #ff6b6b;}
+}

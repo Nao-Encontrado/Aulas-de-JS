@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.calculadora {
+    border: 5px solid black;
+    width: 40%;
+    height: 70%;
+    border-radius: 15px;
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}

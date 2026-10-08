@@ -1,0 +1,14 @@
+.display {
+    width: 80%;
+    height: 15%;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: end;
+}
+
+.display p {
+    font-size: 30px;
+}
